@@ -1,4 +1,6 @@
-## Work in progress
+## Leo Malinen
+
+**Bachelors of Computer Science student**
 
 <!--
 **leomalinen04/leomalinen04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
