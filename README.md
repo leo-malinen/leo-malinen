@@ -1,6 +1,6 @@
 # Leo Malinen 💻
 
-**'Bachelors of Computer Science student'**
+**`Bachelors of Computer Science student`**
 
 <!--
 Here are some ideas to get you started:
