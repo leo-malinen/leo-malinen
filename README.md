@@ -1,8 +1,10 @@
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqQXCfw2Ulfrfe1xG2NGkSe7FOnT0h9AEjcQ&s"/> 
+
 # Leo Malinen 
 
 ## Bachelors of Computer Science student 💻
 
-I am a
+I am a current student studying computer science at the California State University Chico. My portfolio consists of many projects that I have done in various classes throughout school. 
 
 ---
 ## Languages and programs
