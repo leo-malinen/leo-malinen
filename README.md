@@ -1,16 +1,15 @@
-# Leo Malinen 💻
+# Leo Malinen 
 
-**`Bachelors of Computer Science student`**
+## Bachelors of Computer Science student 💻
 
-<!--
-Here are some ideas to get you started:
+I am a
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## Languages and programs
+
+---
+## Additional Statistics
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsonww&langs_count=20&theme=radical" alt="Hoang Son's Languages" />
+</div>
