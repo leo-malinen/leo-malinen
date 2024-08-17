@@ -11,7 +11,7 @@ I am a
 ## Additional Statistics
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomalinen04&langs_count=20&theme=radical" alt="Leo's Language graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomalinen04&langs_count=20&theme=algolia" alt="Leo's Language graph" />
 </div>
 <br>
 <div align="center">
