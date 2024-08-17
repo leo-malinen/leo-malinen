@@ -11,9 +11,9 @@ I am a
 ## Additional Statistics
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsonww&langs_count=20&theme=radical" alt="Hoang Son's Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomalinen04&langs_count=20&theme=radical" alt="Leo's Language graph" />
 </div>
 <br>
 <div align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=hoangsonww.hoangsonww" alt="Visitor Count" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=leomalinen04.leomalinen04" alt="Visitor Count" />
 </div>
