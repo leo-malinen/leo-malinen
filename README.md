@@ -8,7 +8,14 @@ I am a current student studying computer science at the California State Univers
 
 ---
 ## Languages and Programs 
-
+!HTML5
+!CSS3
+!JavaScript
+!React
+!Redux
+!Git
+!GitHub
+!Node.js
 ---
 ## Github Statistics 📊
 <!--
