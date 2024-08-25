@@ -8,7 +8,7 @@ I am a current student studying computer science at the California State Univers
 
 ---
 ## Languages and Programs 
-![HTML5](https://e7.pngegg.com/pngimages/780/934/png-clipart-html-logo-html5-logo-icons-logos-emojis-tech-companies-thumbnail.png)
+!HTML5
 !CSS
 !JavaScript
 !Python
