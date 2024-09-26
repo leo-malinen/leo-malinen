@@ -1,6 +1,6 @@
 <!-- <a href = "https://leomalinen04.github.io/"><img src = "" alt = "Leo Malinen" /></a> -->
 
-# Leo Malinen 
+# Banner will go here
 
 ## Bachelors of Computer Science student 💻
 
