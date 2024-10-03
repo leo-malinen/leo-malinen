@@ -21,7 +21,7 @@ I am a current student studying computer science at the California State Univers
 <br>
 
 ## Programs
-(Adobe products) (Blender) (Vray) (sketchup) (others)
+(Adobe products) (Blender) (Vray) (sketchup)
 
 ---
 ## Github Statistics 📊
