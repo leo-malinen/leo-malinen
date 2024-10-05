@@ -7,7 +7,7 @@
 I am a current student studying computer science at the California State University Chico. My portfolio consists of many projects that I have done in various classes throughout school. The other projects that you see in this portfolio are built in various languages for either as a hobby, or as a tool that I have listed for others to be able to use. All my renderings that I list can be viewed via the links in the according repository, or on the website listed on the left or click the banner above. 
 
 ---
-###Languages: 
+### Languages: 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,7 +19,7 @@ I am a current student studying computer science at the California State Univers
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 <br>
 
-###Programs:
+### Programs:
 
 (Adobe products) (Blender) (Vray) (sketchup)
 
