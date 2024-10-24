@@ -26,6 +26,7 @@ I am a current student studying computer science at the California State Univers
 ---
 ## Github Statistics 📊
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=leo-malinen&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=leo-malinen&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="My Github Stats"/> -->
 
 ---
