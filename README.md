@@ -21,7 +21,11 @@ I am a current student studying computer science at the California State Univers
 
 ### Programs:
 
-(Blender) (Vray) (sketchup) (After Effects) (Photoshop)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Vray](https://img.shields.io/badge/Vray-FFC90E?style=for-the-badge&logo=vray&logoColor=white)
+![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 ---
 ## Github Statistics 📊
