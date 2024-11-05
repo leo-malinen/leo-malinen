@@ -38,3 +38,5 @@ I am a current student studying computer science at the California State Univers
 <div align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=leo-malinen.leo-malinen" alt="Visitor Count" />
 </div>
+<br>
+Snake game commit graphic here
