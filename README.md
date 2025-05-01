@@ -1,6 +1,4 @@
-<!-- <a href = "https://leomalinen04.github.io/"><img src = "" alt = "Leo Malinen" /></a> -->
-
-# Hi my name is Leo
+<a href = "https://leomalinen04.github.io/"><img src = "githubbannerpic.png" alt = "Leo Malinen" /></a>
 
 ## Bachelors of Computer Science student 💻
 
