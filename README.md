@@ -43,4 +43,3 @@ I am a current student studying computer science at the California State Univers
 <br>
 
 ---
-### Snake game commit graphic here
