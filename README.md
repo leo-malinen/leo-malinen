@@ -2,7 +2,7 @@
 
 ## Bachelors of Computer Science student 💻
 
-I am a current student studying computer science at the California State University Chico. My portfolio consists of many projects that I have done in various classes throughout school. The other projects that you see in this portfolio are built in various languages for either as a hobby, or as a tool that I have listed for others to be able to use. All my renderings that I list can be viewed via the links in the according repository, or on the website listed on the left or click the banner above. 
+I am a current student studying computer science at the California State University Chico. My portfolio consists of many projects that I have done in various classes throughout school. The other projects that you see in this portfolio are built in various languages for either as a hobby, or as a tool that I have listed for others to be able to use. All my 3d renders that I list can be viewed via the links in the according repository, or on the website listed on the left or click the banner above. 
 
 ---
 ### Languages: 
