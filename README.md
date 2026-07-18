@@ -35,9 +35,8 @@ Just a guy passionate about software engineering and cybersecurity
 ---
 ## Additional Statistics
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-malinen&langs_count=20&theme=algolia" alt="Leo's Language graph" />
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=leo-malinen&layout=donut&langs_count=5&theme=algolia)](https://github-stats-extended.vercel.app/api/top-langs?username=leo-malinen&layout=donut&langs_count=5&theme=algolia)
+
 <br>
 <div align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=leo-malinen.leo-malinen" alt="Visitor Count" />
