@@ -1,4 +1,4 @@
-<a href = "https://leo-malinen.github.io/"><img src = "GithubHeader.png" alt = "Leo Malinen" /></a>
+<a href = "https://leo-malinen.github.io/"><img src = "GithubHeadBanner.png" alt = "Lamborghini" /></a>
 
 ## Bachelors of Computer Science student 💻
 
